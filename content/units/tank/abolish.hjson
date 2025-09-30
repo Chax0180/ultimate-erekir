@@ -1,5 +1,5 @@
 type: tank
-name: Despondent
+name: Abolish
 description: Fires powerful railgun blasts at enemy ground targets over large distances. Equipped with a pair of auxilary anti-air guns. Less affected from harmful terrain.
 hitSize: 30
 treadPullOffset: 3
