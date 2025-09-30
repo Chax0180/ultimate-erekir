@@ -42,7 +42,7 @@ plans: [
   }
   {
     type: AssemblerUnitPlan
-    unit: despondent
+    unit: abolish
     requirements: [
       disperse/1
       afflict/1
