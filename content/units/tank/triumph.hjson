@@ -6,7 +6,7 @@ immunities: [burning, melting]
 treadPullOffset: 3
 omniMovement: false
 faceTarget: false
-outlineColor: 44413c
+outlineColor: 2d2f39
 speed: 0.5
 rotateSpeed: 0.5
 health: 36000
