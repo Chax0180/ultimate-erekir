@@ -1,7 +1,8 @@
 type: tank
 name: Abolish
-description: Fires powerful railgun blasts at enemy ground targets over large distances. Equipped with a pair of auxilary anti-air guns. Less affected from harmful terrain.
+description: Fires powerful railgun blasts at enemy ground targets over large distances. Equipped with a pair of auxilary anti-air guns. Less affected from harmful terrain. Armored with corrosion-resistent plating.
 hitSize: 30
+immunities: [burning, melting, corroded]
 treadPullOffset: 3
 omniMovement: false
 faceTarget: false
