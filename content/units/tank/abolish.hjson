@@ -4,10 +4,11 @@ description: Fires powerful railgun blasts at enemy ground targets over large di
 hitSize: 30
 immunities: [burning, melting, corroded]
 treadPullOffset: 3
+outlineColor: 44413c
 omniMovement: false
 faceTarget: false
-speed: 1.2
-rotateSpeed: 3
-health: 280
-armor: 28
+speed: 0.4
+rotateSpeed: 0.4
+health: 52000
+armor: 40
 itemCapacity: 0
