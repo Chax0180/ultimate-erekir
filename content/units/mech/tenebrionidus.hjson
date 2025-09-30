@@ -1,6 +1,6 @@
-type: tank
-name: Despondent
-description: Fires corrosive shotgun blasts enemy targets, and attacks ground targets with large artillery shells.
+type: legs
+name: Tenebrionidus
+description: Fires a barrage of corrosive shotgun blasts enemy targets.
 hitSize: 30
 speed: 1.2
 rotateSpeed: 3
