@@ -1,0 +1,13 @@
+name: Chax0180's Ultimate Erekir
+description: '''
+Adds lots of post-game content to Erekir to extend the campaign, such as tier 6 and 7 units, heavier turrets, and much more.
+
+Very WIP.
+
+All sprites and code created by Chax0180.
+'''
+author: Chax0180
+minGameVersion: 136
+version: 1.0
+hidden: true
+hideBrowser: false
