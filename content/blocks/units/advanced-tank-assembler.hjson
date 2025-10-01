@@ -38,7 +38,7 @@ plans: [
       titan/1
       shielded-wall/8
       precept/2
-      tank-control-core/1
+      ultimate-erekir-tank-control-core/1
     ]
     time: 27000
   }
@@ -51,7 +51,7 @@ plans: [
       shielded-wall/12
       carbide-wall-large/4
       precept/4
-      tank-control-core/2
+      ultimate-erekir-tank-control-core/2
     ]
     time: 43200
   }
