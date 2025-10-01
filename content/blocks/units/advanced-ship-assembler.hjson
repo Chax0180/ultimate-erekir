@@ -37,7 +37,7 @@ plans: [
       breach/6
       shielded-wall/8
       beryllium-wall-large/12
-      ship-control-core/1
+      ultimate-erekir-ship-control-core/1
     ]
     time: 27000
   }
@@ -49,7 +49,7 @@ plans: [
       shielded-wall/12
       carbide-wall-large/4
       beryllium-wall-large/24
-      ship-control-core/2
+      ultimate-erekir-ship-control-core/2
     ]
     time: 43200
   }
