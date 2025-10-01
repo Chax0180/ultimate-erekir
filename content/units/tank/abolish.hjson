@@ -44,13 +44,13 @@ bullet: {
     particles: 5
     lifetime: 60
     sizeFrom: 6
-    sizeTo: 2
-    cone: 5
+    sizeTo: 0
+    cone: 10
     length: 40
     colorFrom: ea8878
     colorTo: bc5452
   }
-    trailInterval: 3
+    trailInterval: 2
     trailRotation: true
     trailLength: 40
     trailWidth: 4
