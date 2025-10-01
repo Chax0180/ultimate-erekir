@@ -1,0 +1,10 @@
+type: wall
+name: Heavy Control Core
+size: 2
+placeablePlayer: false
+requirements: {
+silicon/80
+oxide/50
+surge-alloy/20
+tungsten/80
+}
