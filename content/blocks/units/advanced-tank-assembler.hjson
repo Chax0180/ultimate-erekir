@@ -37,6 +37,7 @@ plans: [
       breach/2
       titan/1
       shielded-wall/8
+      precept/2
     ]
     time: 7200
   }
@@ -48,6 +49,7 @@ plans: [
       afflict/1
       shielded-wall/16
       carbide-wall-large/4
+      precept/4
     ]
     time: 14400
   }
