@@ -46,10 +46,10 @@ weapons: [
     trailWidth: 4
     }
 }
-
-
-
 ]
+
+
+
 parts: [
   {
     type: RegionPart
