@@ -39,7 +39,7 @@ plans: [
       shielded-wall/8
       precept/2
     ]
-    time: 7200
+    time: 27000
   }
   {
     type: AssemblerUnitPlan
@@ -51,7 +51,7 @@ plans: [
       carbide-wall-large/4
       precept/4
     ]
-    time: 14400
+    time: 43200
   }
 ]
 squareSprite: false
