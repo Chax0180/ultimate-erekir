@@ -3,10 +3,10 @@ name: Ship Control Core
 description: An advanced control unit for heavier ship units.
 size: 2
 placeablePlayer: false
-requirements: {
+requirements: [
 silicon/80
 oxide/20
 surge-alloy/20
 tungsten/60
 graphite/200
-}
+]
