@@ -36,7 +36,7 @@ plans: [
     requirements: [
       breach/6
       shielded-wall/8
-      obviate/3
+      beryllium-wall-large/12
       ship-control-core/1
     ]
     time: 27000
@@ -48,7 +48,7 @@ plans: [
       scathe/2
       shielded-wall/12
       carbide-wall-large/4
-      obviate/6
+      beryllium-wall-large/24
       ship-control-core/2
     ]
     time: 43200
