@@ -1,5 +1,6 @@
 type: wall
-name: Heavy Control Core
+name: Ship Control Core
+description: An advanced control unit for heavier ship units.
 size: 2
 placeablePlayer: false
 requirements: {
