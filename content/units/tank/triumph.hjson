@@ -30,7 +30,7 @@ weapons: [
     y: -8
     reload: 300
     mirror: false
-    shootSound: mediumCanon
+    shootSound: mediumCannon
     inaccuracy: 0
     bullet: {
     type: ArtilleryBulletType
