@@ -1,0 +1,11 @@
+type: wall
+name: Mech Control Core
+description: An advanced control unit for heavier mech units.
+size: 2
+placeablePlayer: false
+requirements: {
+silicon/80
+oxide/50
+surge-alloy/20
+tungsten/80
+}
