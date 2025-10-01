@@ -5,7 +5,8 @@ size: 2
 placeablePlayer: false
 requirements: {
 silicon/80
-oxide/50
+oxide/20
 surge-alloy/20
-tungsten/80
+tungsten/60
+graphite/200
 }
