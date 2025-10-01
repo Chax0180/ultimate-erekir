@@ -37,6 +37,7 @@ plans: [
       breach/6
       shielded-wall/8
       obviate/3
+      heavy-control-core/1
     ]
     time: 27000
   }
@@ -48,6 +49,7 @@ plans: [
       shielded-wall/16
       carbide-wall-large/4
       obviate/6
+      heavy-control-core/2
     ]
     time: 43200
   }
