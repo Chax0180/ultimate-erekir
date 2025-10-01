@@ -12,3 +12,51 @@ rotateSpeed: 0.4
 health: 52000
 armor: 40
 itemCapacity: 0
+weapons: [
+{
+    name: abolish-cannon
+    rotate: true
+    rotateSpeed: 1
+    x: 0
+    y: -8
+    reload: 240
+    mirror: false
+    shootSound: shootSmite
+    inaccuracy: 0
+{
+    frontColor: ffffff
+    backColor: ea8878
+    trailColor: ea8878
+    hitEffect: hitBulletColor
+    despawnEffect: hitBulletColor
+    despawnSound: shoot-dull
+    type: BasicBulletType
+    speed: 12
+    lifetime: 40
+    damage: 2800
+    pierce: true
+    pierceBuilding: true
+    width: 12
+    height: 20
+    trailChance: -1
+    trailEffect: shootSmokeTitan
+    trailInterval: 3
+    trailRotation: true
+    trailLength: 40
+    trailWidth: 4
+    }
+}
+
+
+
+]
+parts: [
+  {
+    type: RegionPart
+    suffix: -glow
+    color: ff0000
+    blending: additive
+    outline: false
+    under: false
+  }
+]
