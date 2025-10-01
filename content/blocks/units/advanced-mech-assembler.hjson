@@ -37,7 +37,7 @@ plans: [
       sublimate/2
       disperse/1
       shielded-wall/8
-      anthicus/2
+      tungsten-wall/12
       mech-control-core/1
     ]
     time: 27000
@@ -50,7 +50,7 @@ plans: [
       titan/1
       shielded-wall/12
       carbide-wall-large/4
-      anthicus/6
+      tungsten-wall/24
       mech-control-core/2
     ]
     time: 43200
