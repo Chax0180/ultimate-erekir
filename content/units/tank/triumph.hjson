@@ -15,9 +15,9 @@ itemCapacity: 0
 hitSize: 60
 treadRects: [
   {
-    x: -45
-    y: 60
-    height: 80
-    width: 18
+    x: -100
+    y: 100
+    height: 100
+    width: 100
   }
 ]
