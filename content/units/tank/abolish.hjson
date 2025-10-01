@@ -39,7 +39,17 @@ bullet: {
     width: 12
     height: 20
     trailChance: -1
-    trailEffect: shootSmokeTitan
+    trailEffect: {
+    type: ParticleEffect
+    particles: 5
+    lifetime: 60
+    sizeFrom: 20
+    sizeTo: 5
+    cone: 5
+    length: -20
+    colorFrom: ea8878
+    colorTo: bc5452
+  }
     trailInterval: 3
     trailRotation: true
     trailLength: 40
