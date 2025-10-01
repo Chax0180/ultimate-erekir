@@ -13,3 +13,29 @@ health: 36000
 armor: 32
 itemCapacity: 0
 hitSize: 60
+treadRects: [
+  {
+    x: -39
+    y: -34
+    height: 24
+    width: 14
+  }
+  {
+    x: 28
+    y: -34
+    height: 24
+    width: 14
+  }
+  {
+    x: -39
+    y: 35
+    height: 24
+    width: 14
+  }
+  {
+    x: 28
+    y: 35
+    height: 24
+    width: 14
+  }
+]
