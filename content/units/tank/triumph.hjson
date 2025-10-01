@@ -21,3 +21,13 @@ treadRects: [
     width: 100
   }
 ]
+parts: [
+  {
+    type: RegionPart
+    suffix: -glow
+    color: 8ca9e8
+    blending: additive
+    outline: false
+    under: false
+  }
+]
