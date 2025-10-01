@@ -7,5 +7,6 @@ requirements: {
 silicon/80
 oxide/50
 surge-alloy/20
-tungsten/160
+tungsten/140
+beryllium/80
 }
