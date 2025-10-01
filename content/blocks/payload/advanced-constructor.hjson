@@ -1,0 +1,28 @@
+type: Constructor
+name: Advanced Constructor
+description: Fabricates more advanced structures up to 2x2 tiles in size.
+size: 3
+category: units
+requirements: [
+  silicon/100
+  beryllium/150
+  tungsten/160
+  carbide/60
+  surge-alloy/40
+] 
+hasPower: true
+consumes: {
+  power: 0.75
+  hydrogen/0.0333
+}
+buildSpeed: 1.5
+filter: [
+tank-control-core
+mech-control-core
+ship-control-core
+shielded-wall
+]
+research: advanced-tank-assembler
+squareSprite: false
+maxBlockSize: 3
+researchCostMultiplier: 0.5
