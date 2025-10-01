@@ -38,7 +38,7 @@ plans: [
       disperse/1
       shielded-wall/8
       anthicus/2
-      heavy-control-core/1
+      mech-control-core/1
     ]
     time: 27000
   }
@@ -51,7 +51,7 @@ plans: [
       shielded-wall/12
       carbide-wall-large/4
       anthicus/6
-      heavy-control-core/2
+      mech-control-core/2
     ]
     time: 43200
   }
