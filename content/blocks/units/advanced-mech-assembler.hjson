@@ -38,7 +38,7 @@ plans: [
       disperse/1
       shielded-wall/8
       tungsten-wall/12
-      mech-control-core/1
+      ultimate-erekir-mech-control-core/1
     ]
     time: 27000
   }
@@ -51,7 +51,7 @@ plans: [
       shielded-wall/12
       carbide-wall-large/4
       tungsten-wall/24
-      mech-control-core/2
+      ultimate-erekir-mech-control-core/2
     ]
     time: 43200
   }
