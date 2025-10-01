@@ -1,6 +1,6 @@
 type: tank
 name: Triumph
-description: Fires massive artillery shells at enemy targets. Equipped with a pair of auxilary piercing cannons. Less affected from harmful terrain.
+description: Fires massive artillery shells at enemy targets. Equipped with a pair of auxiliary piercing cannons. Less affected from harmful terrain.
 hitSize: 8
 immunities: [burning, melting]
 treadPullOffset: 3
