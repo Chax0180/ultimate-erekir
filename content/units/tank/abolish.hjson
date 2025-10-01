@@ -31,10 +31,10 @@ bullet: {
     type: ParticleEffect
     particles: 20
     lifetime: 120
-    sizeFrom: 8
+    sizeFrom: 60
     sizeTo: 0
-    cone: 45
-    length: 90
+    cone: 25
+    length: 180
     colorFrom: ea8878
     colorTo: bc5452
   }
@@ -42,10 +42,10 @@ bullet: {
     type: ParticleEffect
     particles: 20
     lifetime: 120
-    sizeFrom: 6
+    sizeFrom: 60
     sizeTo: 0
-    cone: 45
-    length: 90
+    cone: 25
+    length: 180
     colorFrom: ea8878
     colorTo: bc5452
   }
