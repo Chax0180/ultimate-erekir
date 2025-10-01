@@ -36,6 +36,7 @@ plans: [
     requirements: [
       breach/6
       shielded-wall/8
+      obviate/3
     ]
     time: 7200
   }
@@ -46,6 +47,7 @@ plans: [
       scathe/2
       shielded-wall/16
       carbide-wall-large/4
+      obviate/6
     ]
     time: 14400
   }
