@@ -30,13 +30,13 @@ weapons: [
     y: -8
     reload: 300
     mirror: false
-    shootSound: titanShoot
+    shootSound: mediumCanon
     inaccuracy: 0
     bullet: {
     type: ArtilleryBulletType
       speed: 2
-      lifetime: 120
-      damage: 855
+      lifetime: 240
+      damage: 1355
     width: 25
     height: 30
       trailChance: -1
@@ -49,9 +49,8 @@ weapons: [
       frontColor: feb380
        hitSound: titanExplosion
       despawnSound: titanExplosion
-  splashDamage: 235
-  splashDamageRadius: 40
-      hitEffect: impactReactorExplosion
+  splashDamage: 435
+  splashDamageRadius: 70
     }
 }
 ]
