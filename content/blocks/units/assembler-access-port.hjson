@@ -1,0 +1,17 @@
+type: UnitAssemblerModule
+name: Assembler Access Port
+description: A port inputting payloads into unit assemblers without changing tier.
+size: 5
+category: units
+research: advanced-tank-assembler
+requirements: [
+  thorium/250
+  phase-fabric/100
+  oxide/100
+  carbide/150
+]
+consumes: {
+  power: 2
+}
+researchCostMultiplier: 0.7
+tier: 0
