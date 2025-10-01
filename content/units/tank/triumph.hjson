@@ -21,6 +21,41 @@ treadRects: [
     width: 18
   }
 ]
+weapons: [
+{
+    name: triumph-cannon
+    rotate: true
+    rotateSpeed: 1
+    x: 0
+    y: -8
+    reload: 300
+    mirror: false
+    shootSound: titanShoot
+    inaccuracy: 0
+    bullet: {
+    type: ArtilleryBulletType
+      speed: 2
+      lifetime: 120
+      damage: 855
+    width: 25
+    height: 30
+      trailChance: -1
+      trailLength: 22
+      trailWidth: 2.2
+      trailColor: ea8878
+      backColor: ea8878
+      lightColor: ea8878
+      lightOpacity: 0.7
+      frontColor: feb380
+       hitSound: titanExplosion
+      despawnSound: titanExplosion
+  splashDamage: 235
+  splashDamageRadius: 40
+      hitEffect: impactReactorExplosion
+    }
+}
+}
+]
 parts: [
   {
     type: RegionPart
