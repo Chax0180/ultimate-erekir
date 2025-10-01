@@ -48,7 +48,7 @@ plans: [
     requirements: [
       disperse/1
       afflict/1
-      shielded-wall/16
+      shielded-wall/12
       carbide-wall-large/4
       precept/4
       heavy-control-core/2
