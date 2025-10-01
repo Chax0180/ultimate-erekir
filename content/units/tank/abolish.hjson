@@ -8,7 +8,7 @@ outlineColor: 2d2f39
 omniMovement: false
 faceTarget: false
 speed: 0.4
-rotateSpeed: 0.4
+rotateSpeed: 0.8
 health: 52000
 armor: 40
 itemCapacity: 0
