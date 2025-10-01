@@ -27,7 +27,17 @@ bullet: {
     frontColor: ffffff
     backColor: ea8878
     trailColor: ea8878
-    hitEffect: hitBulletColor
+    hitEffect: {
+    type: ParticleEffect
+    particles: 20
+    lifetime: 120
+    sizeFrom: 8
+    sizeTo: 0
+    cone: 10
+    length: 90
+    colorFrom: ea8878
+    colorTo: bc5452
+  }
     despawnEffect: {
     type: ParticleEffect
     particles: 20
