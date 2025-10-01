@@ -3,10 +3,10 @@ name: Tank Control Core
 description: An advanced control unit for heavier tank units.
 size: 2
 placeablePlayer: false
-requirements: {
+requirements: [
 silicon/80
 oxide/50
 surge-alloy/20
 tungsten/140
 beryllium/80
-}
+]
