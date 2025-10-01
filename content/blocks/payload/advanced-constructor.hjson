@@ -11,10 +11,10 @@ requirements: [
   surge-alloy/40
 ] 
 hasPower: true
-consumes: {
+consumes: [
   power: 0.75
   hydrogen/0.0333
-}
+]
 buildSpeed: 1.5
 filter: [
 tank-control-core
