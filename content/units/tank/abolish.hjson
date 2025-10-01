@@ -23,7 +23,7 @@ weapons: [
     mirror: false
     shootSound: shootSmite
     inaccuracy: 0
-{
+bullet: {
     frontColor: ffffff
     backColor: ea8878
     trailColor: ea8878
