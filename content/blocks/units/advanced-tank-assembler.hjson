@@ -38,6 +38,7 @@ plans: [
       titan/1
       shielded-wall/8
       precept/2
+      heavy-control-core/1
     ]
     time: 27000
   }
@@ -50,6 +51,7 @@ plans: [
       shielded-wall/16
       carbide-wall-large/4
       precept/4
+      heavy-control-core/2
     ]
     time: 43200
   }
