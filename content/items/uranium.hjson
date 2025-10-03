@@ -1,0 +1,10 @@
+name: Uranium
+description: A highly radioactive metal used in advanced power generation and as a fuel in various heavy-duty smelteries.
+hardness: 8
+cost: 1.1
+healthScaling: 0.2
+explosiveness: 0
+radioactivity: 4
+color: 25b027
+research: thorium
+hiddenOnPlanets: [serpulo]
