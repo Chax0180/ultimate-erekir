@@ -1,7 +1,6 @@
 name: Spent Uranium
 description: Uranium that has already been used as fuel. Used for turret ammo. Can be repurposed.
 hardness: 12
-explosiveness: 0
 radioactivity: 0.1
 color: 519151
 research: uranium
