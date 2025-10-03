@@ -1,0 +1,17 @@
+  type: ItemTurret
+  name: breach
+  $patch: true
+
+  ammo: {
+    spent-uranium: {
+      type: BasicBulletType
+      speed: 6
+      damage: 96
+      lifetime: 30
+      width: 9
+      height: 14
+      frontColor: ffffff
+      backColor: 519151
+      hitEffect: hitBulletBig
+    }
+  }
