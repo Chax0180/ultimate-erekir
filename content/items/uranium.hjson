@@ -3,5 +3,5 @@ description: A highly radioactive metal used in advanced power generation and as
 hardness: 8
 radioactivity: 4
 color: 25b027
-research: thorium
+research: carbide
 hiddenOnPlanets: [serpulo]
