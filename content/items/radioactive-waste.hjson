@@ -1,1 +1,7 @@
-
+name: Uranium
+description: Dangerous waste produced by machines that consume Uranium.
+hardness: 0.5
+radioactivity: 18
+color: 25b027
+research: uranium
+hiddenOnPlanets: [serpulo]
