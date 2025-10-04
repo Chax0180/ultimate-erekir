@@ -28,9 +28,6 @@ ammoTypes: {
       hitEffect: hitBulletBig
     }
 }
-
-shootY: 1
-
 drawer: {
   type: DrawTurret
   basePrefix: reinforced-
