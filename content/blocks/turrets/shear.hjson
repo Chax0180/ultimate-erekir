@@ -55,14 +55,8 @@ drawer: {
       mirror: true
       under: false
       progress: warmup
-      rotate: 30
-        moves: [
-            {
-            type: PartMove
-            progress: warmup
-            x: 3
-            }
-        ]
+      moveX: 3
+        rotate: 15
     }
   ]
 }
