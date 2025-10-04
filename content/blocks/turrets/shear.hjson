@@ -29,7 +29,7 @@ ammoTypes: {
     }
 }
 
-shootX: -3
+shootY: -5
 
 drawer: {
   type: DrawTurret
