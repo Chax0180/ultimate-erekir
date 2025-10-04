@@ -36,6 +36,7 @@ ammoTypes: {
       frontColor: ffffff
       backColor: 519151
     buildingDamageMultiplier: 0.3
+          sprite: missile-large
   smokeEffect: {
     type: ParticleEffect
     particles: 10
