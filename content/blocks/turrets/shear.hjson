@@ -22,7 +22,7 @@ ammoTypes: {
     spent-uranium: {
       type: BasicBulletType
       speed: 6
-      damage: 96
+      damage: 288
       lifetime: 30
       width: 9
       height: 14
