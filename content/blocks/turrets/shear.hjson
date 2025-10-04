@@ -25,6 +25,8 @@ coolant: {
   allowLiquid: true
   amount: 0.25
 }
+range: 180
+
 ammoTypes: {
     spent-uranium: {
       type: BasicBulletType
