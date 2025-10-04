@@ -1,7 +1,7 @@
 type: ItemTurret
 name: Shear
 description: Fires heavy, armor-piercing bullets at enemy targets.
-size: 3
+size: 4
 maxAmmo: 10
 shootSound: shearShoot
 reload: 60
@@ -15,7 +15,7 @@ oxide/75
 ]
 outlineColor: 2d2f39
 
-ammo: {
+ammoTypes: {
     spent-uranium: {
       type: BasicBulletType
       speed: 6
