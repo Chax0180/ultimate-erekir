@@ -14,6 +14,9 @@ tungsten/250
 oxide/75
 ]
 outlineColor: 2d2f39
+shoot: {
+firstShotDelay: 90
+}
 
 ammoTypes: {
     spent-uranium: {
@@ -52,9 +55,8 @@ drawer: {
       mirror: true
       under: false
       progress: warmup
-        moveX: 3
-        moveY: 1
-        rotate: 30
+        moveY: -1
+        moveX: 1
     }
   ]
 }
