@@ -19,7 +19,12 @@ outlineColor: 2d2f39
 shoot: {
 firstShotDelay: 90
 }
-
+coolant: {
+  type: ConsumeCoolant
+  allowGas: false
+  allowLiquid: true
+  amount: 0.25
+}
 ammoTypes: {
     spent-uranium: {
       type: BasicBulletType
