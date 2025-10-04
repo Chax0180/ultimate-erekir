@@ -45,8 +45,8 @@ ammoTypes: {
 trailEffect: {
     type: ParticleEffect
     particles: 6
-    length: 20
-    lifetime: 60
+    length: 8
+    lifetime: 120
     interp: circleOut
     cone: 180
     colorFrom: 23e829
@@ -55,6 +55,18 @@ trailEffect: {
     sizeTo: 0
   }
 trailInterval: 3
+hitEffect:{
+    type: ParticleEffect
+    particles: 10
+    length: 80
+    lifetime: 60
+    interp: circleOut
+    cone: 8
+    colorFrom: 23e829
+    colorTo: 1e6b1e
+    sizeFrom: 6
+    sizeTo: 0
+  }
 
     }
 }
