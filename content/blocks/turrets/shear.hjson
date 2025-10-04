@@ -31,7 +31,12 @@ ammoTypes: {
     spent-uranium: {
       type: BasicBulletType
       speed: 5
-      damage: 288
+      damage: 235
+      pierce: true
+      pierceCap: 4
+      pierceArmor: true
+      pierceDamageFactor: 1.25
+      
       lifetime: 80
       width: 11
       height: 17
