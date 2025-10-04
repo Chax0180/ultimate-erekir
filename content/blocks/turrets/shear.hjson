@@ -54,8 +54,15 @@ drawer: {
       suffix: -blade
       mirror: true
       under: false
-      progress: recoil
-      rotate: 10
+      progress: warmup
+      rotate: 30
+        moves: [
+            {
+            type: PartMove
+            progress: warmup
+            x: 3
+            }
+        ]
     }
   ]
 }
