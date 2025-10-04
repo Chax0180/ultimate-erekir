@@ -19,9 +19,9 @@ outlineColor: 2d2f39
 shoot: {
 firstShotDelay: 90
 }
-consumes: {
+consumes: [
 power/2
-}
+]
 coolant: {
   type: ConsumeCoolant
   allowGas: false
