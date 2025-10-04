@@ -6,6 +6,13 @@ maxAmmo: 10
 shootSound: shearShoot
 reload: 60
 rotateSpeed: 1.5
+requirements: [
+thorium/100
+graphite/200
+silicon/400
+tungsten/250
+oxide/75
+]
 
 ammo: {
     spent-uranium: {
@@ -19,4 +26,34 @@ ammo: {
       backColor: 519151
       hitEffect: hitBulletBig
     }
+}
+
+drawer: {
+  type: DrawTurret
+  basePrefix: reinforced-
+  parts: [
+    {
+      type: RegionPart
+      suffix: -rails
+      under: false
+      mirror: false
+      outline: false
+      progress: warmup 
+      moves: [
+        {
+          type: PartMove
+          progress: recoil
+          y: 16
+        }
+      ]
+    }
+    {
+      type: RegionPart
+      suffix: -body
+      mirror: true
+      under: false
+      progress: warmup
+      moveX: 2
+    }
+  ]
 }
