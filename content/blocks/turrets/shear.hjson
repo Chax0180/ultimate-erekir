@@ -1,4 +1,4 @@
-etype: ItemTurret
+type: ItemTurret
 name: Shear
 description: Fires heavy, armor-piercing bullets at enemy targets.
 size: 4
@@ -52,6 +52,18 @@ drawer: {
       mirror: true
       under: false
       progress: warmup
+      moves: [
+        {
+          type: PartMove
+          progress: warmup
+          x: -3
+        }
+        {
+          type: PartRotate
+          progress: warmup
+          d: 50
+        }
+      ]
     }
   ]
 }
