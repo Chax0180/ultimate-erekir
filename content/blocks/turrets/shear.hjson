@@ -31,7 +31,7 @@ ammoTypes: {
     spent-uranium: {
       type: BasicBulletType
       speed: 5
-      damage: 235
+      damage: 470
       pierce: true
       pierceCap: 4
       pierceArmor: true
