@@ -34,11 +34,11 @@ ammoTypes: {
     type: ParticleEffect
     particles: 10
     length: 30
-    lifetime: 120
+    lifetime: 180
     interp: circleOut
-    cone: 10
-    colorFrom: 82c482
-    colorTo: 255e25
+    cone: 15
+    colorFrom: 23e829
+    colorTo: 1e6b1e
     sizeFrom: 6
     sizeTo: 0
   }
