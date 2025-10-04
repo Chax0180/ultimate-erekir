@@ -4,7 +4,7 @@ description: Fires heavy, armor-piercing bullets at enemy targets.
 size: 4
 maxAmmo: 10
 shootSound: shearShoot
-reload: 60
+reload: 180
 rotateSpeed: 1.5
 requirements: [
 thorium/100
@@ -29,6 +29,8 @@ ammoTypes: {
     }
 }
 
+shootX: -3
+
 drawer: {
   type: DrawTurret
   basePrefix: reinforced-
@@ -49,7 +51,7 @@ drawer: {
     }
     {
       type: RegionPart
-      suffix: -blade
+      suffix: -blade1
       mirror: true
       under: false
       progress: recoil
