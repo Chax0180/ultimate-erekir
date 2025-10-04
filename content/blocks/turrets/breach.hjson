@@ -1,5 +1,5 @@
 type: ItemTurret
-name: breach
+name: Breach
 size: 3
 
 ammo: {
