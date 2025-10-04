@@ -5,6 +5,7 @@ size: 4
 maxAmmo: 10
 shootSound: shearShoot
 reload: 180
+cooldownTime: 90
 rotateSpeed: 1.5
 requirements: [
 thorium/100
