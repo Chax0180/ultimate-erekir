@@ -1,4 +1,4 @@
-type: ItemTurret
+etype: ItemTurret
 name: Shear
 description: Fires heavy, armor-piercing bullets at enemy targets.
 size: 4
@@ -29,7 +29,7 @@ ammoTypes: {
     }
 }
 
-shootY: -5
+shootY: 1
 
 drawer: {
   type: DrawTurret
