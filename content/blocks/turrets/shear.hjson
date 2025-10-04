@@ -47,7 +47,7 @@ trailEffect: {
     particles: 6
     length: 20
     lifetime: 60
-    interp: expOut
+    interp: circleOut
     cone: 180
     colorFrom: 23e829
     colorTo: 1e6b1e
