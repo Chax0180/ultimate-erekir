@@ -4,6 +4,8 @@ description: Fires heavy, armor-piercing bullets at enemy targets.
 size: 3
 maxAmmo: 10
 shootSound: shearShoot
+reload: 60
+rotateSpeed: 1.5
 
 ammo: {
     spent-uranium: {
