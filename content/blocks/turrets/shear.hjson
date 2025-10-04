@@ -22,14 +22,26 @@ firstShotDelay: 90
 ammoTypes: {
     spent-uranium: {
       type: BasicBulletType
-      speed: 6
+      speed: 5
       damage: 288
-      lifetime: 30
-      width: 9
-      height: 14
+      lifetime: 40
+      width: 11
+      height: 17
       frontColor: ffffff
       backColor: 519151
       hitEffect: hitBulletBig
+  smokeEffect: {
+    type: ParticleEffect
+    particles: 10
+    length: 30
+    lifetime: 120
+    interp: circleOut
+    cone: 10
+    colorFrom: 82c482
+    colorTo: 255e25
+    sizeFrom: 6
+    sizeTo: 0
+  }
     }
 }
 drawer: {
