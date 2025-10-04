@@ -57,7 +57,7 @@ trailEffect: {
 trailInterval: 3
 hitEffect:{
     type: ParticleEffect
-    particles: 10
+    particles: 20
     length: 60
     lifetime: 60
     interp: circleOut
@@ -69,7 +69,7 @@ hitEffect:{
   }
 despawnEffect:{
     type: ParticleEffect
-    particles: 10
+    particles: 20
     length: 60
     lifetime: 60
     interp: circleOut
