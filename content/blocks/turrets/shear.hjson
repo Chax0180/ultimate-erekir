@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Shear
-description: Fires heavy, armor-piercing bullets at enemy targets.
+description: Fires heavy, armor-piercing bullets at enemy targets. Damage increases by 25% after piercing through a target.
 size: 4
 maxAmmo: 10
 shootSound: shearShoot
