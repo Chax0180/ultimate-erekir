@@ -34,26 +34,26 @@ drawer: {
   parts: [
     {
       type: RegionPart
-      suffix: -rails
+      suffix: -barrel
       under: false
       mirror: false
       outline: false
-      progress: warmup 
+      progress: recoil
       moves: [
         {
           type: PartMove
           progress: recoil
-          y: 16
+          y: -3
         }
       ]
     }
     {
       type: RegionPart
-      suffix: -body
+      suffix: -blade
       mirror: true
       under: false
-      progress: warmup
-      moveX: 2
+      progress: recoil
+      rotate: 10
     }
   ]
 }
