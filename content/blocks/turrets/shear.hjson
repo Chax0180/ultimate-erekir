@@ -24,7 +24,7 @@ ammoTypes: {
       type: BasicBulletType
       speed: 5
       damage: 288
-      lifetime: 40
+      lifetime: 80
       width: 11
       height: 17
       frontColor: ffffff
@@ -42,6 +42,20 @@ ammoTypes: {
     sizeFrom: 6
     sizeTo: 0
   }
+trailEffect: {
+    type: ParticleEffect
+    particles: 10
+    length: 20
+    lifetime: 60
+    interp: circleOut
+    cone: 45
+    colorFrom: 23e829
+    colorTo: 1e6b1e
+    sizeFrom: 6
+    sizeTo: 0
+  }
+trailInterval: 3
+
     }
 }
 drawer: {
