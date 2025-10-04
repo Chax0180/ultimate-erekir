@@ -13,6 +13,7 @@ silicon/400
 tungsten/250
 oxide/75
 ]
+outlineColor: 2d2f39
 
 ammo: {
     spent-uranium: {
@@ -37,7 +38,6 @@ drawer: {
       suffix: -barrel
       under: false
       mirror: false
-      outline: false
       progress: recoil
       moves: [
         {
