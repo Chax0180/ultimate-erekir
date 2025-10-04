@@ -55,7 +55,6 @@ drawer: {
         moveX: 3
         moveY: 1
         rotate: 30
-      ]
     }
   ]
 }
