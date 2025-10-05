@@ -1,7 +1,20 @@
-name: Uranium
-description: Dangerous waste produced by machines that consume Uranium.
-hardness: 0.5
 radioactivity: 18
 color: 25b027
 research: uranium
 hiddenOnPlanets: [serpulo]
+
+type: CellLiquid
+name: Radioactive Waste
+description: Dangerous waste produced by machines that consume Uranium.
+boilPoint: 8
+color: 436643
+colorFrom: 719171
+colorTo: cae6ca
+maxSpread: 20
+spreadDamage: 0.5
+temperature: 2
+heatCapacity: 0
+explosiveness: 1.25
+gasColor: d2fad2
+viscosity: 0.8
+research: uranium
