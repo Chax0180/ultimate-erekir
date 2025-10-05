@@ -1,10 +1,13 @@
 type: HeaterGenerator
 name: Waste Chamber
-description: Decays radioactive waste slowly, producing heat.
+description: Decays radioactive waste, producing heat.
 size: 3
-heatOutput: 8
 squareSprite: false
-researchCostMultiplier: 0.5
+consumes: {
+liquid: radioactive-waste/0.05
+}
+itemDuration: 1
+
 drawer: {
   type: DrawMulti
   drawers: [
@@ -26,16 +29,14 @@ radius: 2
     }
   ]
 }
-consumes: {
-    liquid: radioactive-waste/0.05
-}
-rotate: false
 ambientSound: bioLoop
-ambientSoundVolume: 0.08
-category: crafting
+ambientSoundVolume: 0.24
+powerProduction: 80
+category: power
 research: uranium-reactor
 requirements: [
 copper/1
 ]
-warmupSpeed: 0.003
-heatOutput: 122
+warmupSpeed: 0.006
+heatOutput: 8
+liquidCapacity: 20
