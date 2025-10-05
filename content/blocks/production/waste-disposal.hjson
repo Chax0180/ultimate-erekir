@@ -14,8 +14,10 @@ drawer: {
       suffix: -bottom
     }
     {
-      type: DrawLiquidTile
-      drawLiquid: radioactive-waste
+      type: DrawCells
+color: 436643
+colorFrom: 719171
+colorTo: cae6ca
       padding: 3
     }
     {
