@@ -25,9 +25,7 @@ bottomColor: 255e25
   ]
 }
 consumes: {
-  items: [
-    radioactive-waste/1
-  ]
+    liquid: radioactive-waste/0.05
 }
 rotate: false
 ambientSound: bioLoop
