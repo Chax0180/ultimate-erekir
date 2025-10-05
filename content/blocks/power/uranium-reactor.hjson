@@ -39,4 +39,5 @@ copper/1
 warmupSpeed: 0.003
 heatOutput: 122
 outputLiquid: radioactive-waste/0.25
+liquidCapacity: 120
 explodeOnFull: true
