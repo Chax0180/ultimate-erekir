@@ -5,6 +5,13 @@ size: 5
 squareSprite: false
 explosionRadius: 60
 explosionDamage: 2500
+consumes: {
+items: [
+uranium/5
+]
+liquid: water/30
+}
+itemDuration: 300
 
 drawer: {
   type: DrawMulti
@@ -34,9 +41,12 @@ consumes: {
   itemRadioactive: {
     minRadioactivity: 1
   } 
+itemDuration: 90
 consumes: {
-fluids: {
-water/60
+  itemCharged: {
+    minCharge: 0.1
+  } 
 }
-uranium/5
-}
+warmupSpeed: 0.003
+outputItem: radioactive-waste
+explodeOnFull: true
