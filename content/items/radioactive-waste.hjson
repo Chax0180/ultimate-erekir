@@ -1,5 +1,4 @@
 radioactivity: 18
-color: 25b027
 research: uranium
 hiddenOnPlanets: [serpulo]
 
@@ -17,4 +16,3 @@ heatCapacity: 0
 explosiveness: 1.25
 gasColor: d2fad2
 viscosity: 0.8
-research: uranium
