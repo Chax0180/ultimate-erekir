@@ -9,7 +9,7 @@ consumes: {
 items: [
 uranium/5
 ]
-liquid: water/30
+liquid: water/1
 }
 itemDuration: 300
 
@@ -37,5 +37,5 @@ requirements: [
 copper/1
 ]
 warmupSpeed: 0.003
-outputItem: radioactive-waste
+outputLiquid: radioactive-waste
 explodeOnFull: true
