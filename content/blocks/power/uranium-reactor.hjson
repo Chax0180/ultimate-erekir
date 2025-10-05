@@ -1,9 +1,8 @@
-type: NuclearReactor
+type: HeaterGenerator
 name: Uranium Reactor
-description: Produces a moderate amount of power using fissile uranium. Requires 
-size: 3
+description: Produces a moderate amount of power using fissile uranium. Requires extensive cooling. Will explode if it fills with radioactive waste.
+size: 5
 squareSprite: false
-heating: 0.008
 explosionRadius: 60
 explosionDamage: 2500
 
@@ -35,11 +34,9 @@ consumes: {
   itemRadioactive: {
     minRadioactivity: 1
   } 
-}
-fuelItem: uranium
 consumes: {
-  liquid: water/1
-  items: [
-    uranium/5
-  ]
+fluids: {
+water/60
+}
+uranium/5
 }
