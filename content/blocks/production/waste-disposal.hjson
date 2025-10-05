@@ -18,7 +18,9 @@ drawer: {
 color: 436643
 particleColorFrom: 719171
 particleColorTo: cae6ca
-      padding: 3
+particles: 30
+range: 6
+radius: 2
     }
     {
       type: DrawDefault
