@@ -31,8 +31,8 @@ radius: 2
 }
 ambientSound: bioLoop
 ambientSoundVolume: 0.24
-powerProduction: 80
-category: power
+powerProduction: 0
+category: crafting
 research: uranium-reactor
 requirements: [
 copper/1
