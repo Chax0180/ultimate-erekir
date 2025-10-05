@@ -27,9 +27,8 @@ radius: 2
     {
       type: DrawDefault
     }
-      type: DrawSideRegion
     {
-
+      type: DrawSideRegion
     }
   ]
 }
