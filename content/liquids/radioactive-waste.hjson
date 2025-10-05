@@ -14,7 +14,4 @@ gasColor: d2fad2
 viscosity: 0.8
 research: uranium
 hiddenOnPlanets: [serpulo]
-spreadTargets: [
-arkycite
-neoplasm
-]
+spreadTarget: arkycite
