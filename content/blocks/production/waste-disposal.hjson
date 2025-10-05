@@ -13,12 +13,11 @@ drawer: {
       type: DrawRegion
       suffix: -bottom
     }
-{
-type:DrawCultivator
-plantColor: 519151
-plantColorLight: 82c482
-bottomColor: 255e25
-}
+    {
+      type: DrawLiquidTile
+      drawLiquid: radioactive-waste
+      padding: 3
+    }
     {
       type: DrawDefault
     }
