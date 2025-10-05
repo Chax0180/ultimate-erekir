@@ -27,6 +27,10 @@ radius: 2
     {
       type: DrawDefault
     }
+      type: DrawSideRegion
+    {
+
+    }
   ]
 }
 ambientSound: bioLoop
