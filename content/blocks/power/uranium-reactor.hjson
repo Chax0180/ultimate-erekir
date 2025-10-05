@@ -1,0 +1,37 @@
+type: NuclearReactor
+name: Uranium Reactor
+description: Produces a moderate amount of power using fissile uranium. Requires 
+size: 3
+squareSprite: false
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawCrucibleFlame
+    }
+    {
+      type: DrawDefault
+    }
+  ]
+}
+ambientSound: glow
+ambientSoundVolume: 0.24
+powerProduction: 80
+category: power
+research: neoplasia-reactor
+requirements: [
+copper/1
+]
+itemDuration: 180
+consumes: {
+  itemRadioactive: {
+    minRadioactivity: 1
+  } 
+}
+outputItem: radioactive-waste
+liquidCapacity: 140
+explodeOnFull: true
