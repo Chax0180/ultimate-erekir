@@ -1,7 +1,3 @@
-radioactivity: 18
-research: uranium
-hiddenOnPlanets: [serpulo]
-
 type: CellLiquid
 name: Radioactive Waste
 description: Dangerous waste produced by machines that consume Uranium.
@@ -16,3 +12,5 @@ heatCapacity: 0
 explosiveness: 1.25
 gasColor: d2fad2
 viscosity: 0.8
+research: uranium
+hiddenOnPlanets: [serpulo]
