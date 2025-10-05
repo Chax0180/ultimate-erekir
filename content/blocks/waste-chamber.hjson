@@ -1,0 +1,36 @@
+type: HeatProducer
+name: Waste Chamber
+description: Decays radioactive waste slowly, producing heat.
+size: 3
+heatOutput: 3
+craftTime: 300
+squareSprite: false
+researchCostMultiplier: 0.5
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+{
+type:DrawCultivator
+plantColor: 519151
+plantColorLight: 82c482
+bottomColor: 255e25
+}
+    {
+      type: DrawDefault
+    }
+  ]
+}
+consumes: {
+  items: [
+    radioactive-waste/1
+  ]
+}
+rotate: false
+ambientSound: bioLoop
+ambientSoundVolume: 0.08
+category: crafting
+research: uranium-reactor
