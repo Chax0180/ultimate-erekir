@@ -1,4 +1,4 @@
-type: HeaterGenerator
+type: HeatProducer
 name: Waste Chamber
 description: Decays radioactive waste, producing heat.
 size: 3
@@ -34,12 +34,11 @@ radius: 2
 }
 ambientSound: bioLoop
 ambientSoundVolume: 0.24
-powerProduction: 0
 category: crafting
 research: uranium-reactor
 requirements: [
 copper/1
 ]
 warmupSpeed: 0.006
-heatOutput: 8
+heatOutput: 3
 liquidCapacity: 20
