@@ -44,7 +44,7 @@ ammoTypes: {
       width: 11
       height: 17
       frontColor: ffffff
-      backColor: 519151
+      backColor: ffcbdd
     buildingDamageMultiplier: 0.3
           sprite: missile-large
   smokeEffect: {
