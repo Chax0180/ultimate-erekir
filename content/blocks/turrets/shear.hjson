@@ -54,8 +54,8 @@ ammoTypes: {
     lifetime: 180
     interp: circleOut
     cone: 15
-    colorFrom: 23e829
-    colorTo: 1e6b1e
+    colorFrom: ffcbdd
+    colorTo: bb68c3
     sizeFrom: 6
     sizeTo: 0
   }
@@ -66,8 +66,8 @@ trailEffect: {
     lifetime: 120
     interp: circleOut
     cone: 180
-    colorFrom: 23e829
-    colorTo: 1e6b1e
+    colorFrom: ffcbdd
+    colorTo: bb68c3
     sizeFrom: 6
     sizeTo: 0
   }
@@ -79,8 +79,8 @@ hitEffect:{
     lifetime: 60
     interp: circleOut
     cone: 8
-    colorFrom: 23e829
-    colorTo: 1e6b1e
+    colorFrom: ffcbdd
+    colorTo: bb68c3
     sizeFrom: 6
     sizeTo: 0
   }
@@ -91,8 +91,8 @@ despawnEffect:{
     lifetime: 60
     interp: circleOut
     cone: 8
-    colorFrom: 23e829
-    colorTo: 1e6b1e
+    colorFrom: ffcbdd
+    colorTo: bb68c3
     sizeFrom: 6
     sizeTo: 0
   }
